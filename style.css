@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color:white;
+}
+form{
+    text-align: center;
+}
+fieldset{
+    margin: 40px 30% 0 30%;
+    border-width: 5px;
+    border-color: black;
+    height:40vh ;
+    border-radius: 10px;
+}
+label ,input {
+    display: inline-block;
+    margin-right: 20px;
+    vertical-align: middle;
+    align-items: center;
+    margin-bottom: 20px;
+}
+#submit{
+    padding: 5px;
+}
+#submit:hover{
+    background-color: black;
+    color: azure;
+}
+table ,tr,th{
+    margin: 40px 30% 0 30%;
+    border:1px solid black;
+    padding: 5px;
+    border-radius: 10px;
+
+}
