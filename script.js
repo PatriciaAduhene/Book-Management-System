@@ -26,5 +26,3 @@ form.addEventListener("submit" , (e) =>{
     localStorage.setItem("books",JSON.stringify(book))
 
 });
-
-document.addEventListener("DOMContentLoaded")
